@@ -9,5 +9,5 @@ Features
 
 ## Technologies Used :
 
-*HTML, CSS, JavaScript
-*Firebase: Cloud-based platform for data storage and real-time synchronization.
+* HTML, CSS, JavaScript
+* Firebase: Cloud-based platform for data storage and real-time synchronization.
