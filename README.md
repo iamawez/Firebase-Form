@@ -1,4 +1,4 @@
-###Firebase Form Submission
+#Firebase Form Submission
 A simple web form built with HTML, CSS, JavaScript, and Firebase Firestore to capture user inputs and store them in a cloud database.
 
 Features
